@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Swati-Yadv.
--  Currently I'm a student of Central University of Haryana pursuing my B.Tech in Computer Science.
+-  Currently I'm a student of Central University of Haryana, pursuing my B.Tech in Computer Science.
 - 👀 I’m interested in ...Machine Learning and Python.
 - 🌱 I’m currently learning ...Android App Development.
 - 💞️ I’m looking to collaborate on ...Machine Learning.
